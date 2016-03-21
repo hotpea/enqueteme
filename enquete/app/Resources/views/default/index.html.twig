@@ -1,0 +1,34 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+    <script src="assets/js/index.js"></script>
+
+    {% if success_message %}
+        <div class="ui message success">
+            <i class="close icon"></i>
+            <div class="header">
+                Enquete salva com sucesso!
+            </div>
+            <p>{{ success_message }}</p>
+        </div>
+    {% endif %}
+
+    <p style="text-align: center; font-weight: bold;">Responda uma de nossas últimas enquetes</p>
+    <div class="ui center aligned basic segment">
+
+        <div class="ui left icon action input">
+            <div class="ui one column very relaxed grid">
+                {% for survey in surveys %}
+                    <a href="/answer_survey/{{ survey.id }}">{{ survey.title }}</a>
+                {% endfor %}
+            </div>
+        </div>
+        <div class="ui horizontal divider">
+            ou
+        </div>
+        <a href="add_survey" class="ui teal labeled icon button">
+            Criar sua própria enquete!
+            <i class="add icon"></i>
+        </A>
+    </div>
+{% endblock %}

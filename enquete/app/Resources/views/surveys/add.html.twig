@@ -1,0 +1,52 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+    <script src="assets/js/add_survey.js"></script>
+
+    <div class="ui message error">
+        <i class="close icon"></i>
+        <div class="header">
+            Foram encontrados erros!
+        </div>
+        <p>Existem erros na sua enquete, verifique e tente salva-la novamente!</p>
+    </div>
+
+    <div class="ui fluid input">
+        <input type="text" name="syrvey_title" class="title" placeholder="digite aqui o título da sua enquete"/>
+    </div>
+
+    <div class="ui divider"></div>
+
+    <form class="input_question ui form fluid">
+
+    </form>
+
+    <div class="ui clearing segment">
+        <div class="ui left floated" >
+            Use os botões de ação para montar as questões e alternativas da sua enquete
+        </div>
+
+        <button class="add_question_button ui right floated circular teal icon button" data-content="Adicionar uma questão de múltipla escolha à enquete">
+            <i class="ordered list icon"></i>
+        </button>
+
+        <button class="revise_survey ui right floated circular green icon button" data-content="Salvar enquete">
+            <i class="checkmark icon"></i>
+        </button>
+
+        <button class="delete_survey ui right floated circular red icon button" data-content="Excluir enquete">
+            <i class="remove icon"></i>
+        </button>
+    </div>
+
+    <div class="ui page dimmer">
+        <div class="content">
+            <div class="center">
+                Todas as questões escritas e suas alternativas serão perdidas para sempre...<br>
+                Tem certeza que deseja apagar sua enquete?<br><br>
+                <a href="/" class="ui small red button">SIM!</a>
+                <div class="ui small button closeDimmer">mudei de ideia...</div>
+            </div>
+        </div>
+    </div>
+{% endblock %}

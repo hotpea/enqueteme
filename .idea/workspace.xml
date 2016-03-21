@@ -1,0 +1,1834 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7b6141c9-1ea7-4fce-b1af-13a782708a70" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/app/logs/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/angular/angular.min.js.gzip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/apple-touch-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/examples/assets/images/bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/bootstrap3/elements/button.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/round/elements/button.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/examples/assets/images/wireframe/centered-paragraph.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/colored/modules/checkbox.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/modules/embed.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/themes/default/assets/images/flags.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/assets/images/flags.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/themes/basic/assets/fonts/icons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/themes/default/assets/fonts/icons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/basic/assets/fonts/icons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/assets/fonts/icons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/themes/default/assets/fonts/icons.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/themes/basic/assets/fonts/icons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/themes/default/assets/fonts/icons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/basic/assets/fonts/icons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/assets/fonts/icons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/themes/default/assets/fonts/icons.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/assets/fonts/icons.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/themes/basic/assets/fonts/icons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/themes/default/assets/fonts/icons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/basic/assets/fonts/icons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/assets/fonts/icons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/examples/assets/images/wireframe/image-square.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/examples/assets/images/wireframe/image-text.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/examples/assets/images/wireframe/image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/examples/assets/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/examples/assets/images/wireframe/media-paragraph-alt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/examples/assets/images/wireframe/media-paragraph.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/chubby/collections/menu.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/gmail/collections/message.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/examples/assets/images/avatar/nan.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/themes/github/assets/fonts/octicons-local.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/github/assets/fonts/octicons-local.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/themes/github/assets/fonts/octicons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/github/assets/fonts/octicons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/themes/github/assets/fonts/octicons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/github/assets/fonts/octicons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/examples/assets/images/wireframe/paragraph.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/examples/assets/images/wireframe/short-paragraph.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/material/globals/site.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/examples/assets/images/wireframe/square-image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/symfony" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/collections/table.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/examples/assets/images/wireframe/text-image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/examples/assets/images/avatar/tom.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/examples/assets/images/wireframe/white-image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/angular/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/.bowerrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/.csscomb.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/.csslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/app/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/src/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/AUTHORS.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/src/AppBundle/Entity/Alternatives.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/src/AppBundle/Repository/AlternativesRepository.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/src/AppBundle/AppBundle.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/app/AppCache.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/app/AppKernel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/core/DOMEval.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/data/Data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/src/AppBundle/Controller/DefaultController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/src/AppBundle/Tests/Controller/DefaultControllerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/src/AppBundle/Entity/Enquete.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/src/AppBundle/Repository/EnqueteRepository.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/src/AppBundle/Controller/EnquetesController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/sizzle/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/src/AppBundle/Entity/Questions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/src/AppBundle/Repository/QuestionsRepository.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/angular/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/tasks/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/tasks/collections/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/tasks/config/admin/templates/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/RELEASE-NOTES.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/app/SymfonyRequirements.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/effects/Tween.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/manipulation/_evalUrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/data/var/acceptData.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/data/accepts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/core/access.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/accordion.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/accordion.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/definitions/modules/accordion.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/definitions/modules/accordion.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/accordion.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/accordion.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/modules/accordion.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/chubby/modules/accordion.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/modules/accordion.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/modules/accordion.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/chubby/modules/accordion.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/modules/accordion.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/ad.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/definitions/views/ad.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/ad.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/views/ad.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/views/ad.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/views/ad.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/views/ad.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/app/Resources/views/surveys/add.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/css/addGetHookIf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/js/add_survey.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/css/adjustCSS.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/tasks/collections/admin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/ajax.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/event/ajax.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/event/alias.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/exports/amd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/angular/angular-csp.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/angular/angular.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/angular/angular.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/angular/angular.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/effects/animatedSelector.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/app/Resources/views/surveys/answer.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/api.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/definitions/behaviors/api.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/api.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/app.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/app_dev.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/var/arr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/tasks/build/assets.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/examples/attached.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/attributes/attr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/attributes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/app/autoload.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/app/Resources/views/base.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/examples/bootstrap.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/angular/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/tasks/config/admin/templates/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/breadcrumb.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/definitions/collections/breadcrumb.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/breadcrumb.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/collections/breadcrumb.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/collections/breadcrumb.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/collections/breadcrumb.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/collections/breadcrumb.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/github/collections/breadcrumb.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/tasks/build.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/tasks/collections/build.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/tasks/docs/build.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/tasks/rtl/build.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/manipulation/buildFragment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/button.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/examples/components/button.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/definitions/elements/button.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/button.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/elements/button.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/amazon/elements/button.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/basic/elements/button.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/chubby/elements/button.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/classic/elements/button.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/elements/button.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/github/elements/button.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/material/elements/button.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/raised/elements/button.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/twitter/elements/button.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/elements/button.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/amazon/elements/button.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/basic/elements/button.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/bootstrap3/elements/button.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/chubby/elements/button.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/classic/elements/button.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/elements/button.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/github/elements/button.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/material/elements/button.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/raised/elements/button.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/round/elements/button.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/twitter/elements/button.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/callbacks.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/card.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/examples/components/card.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/definitions/views/card.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/card.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/views/card.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/basic/views/card.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/classic/views/card.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/views/card.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/instagram/views/card.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/views/card.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/basic/views/card.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/classic/views/card.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/views/card.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/instagram/views/card.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/modules/chatroom.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/modules/chatroom.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/modules/chatroom.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/modules/chatroom.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/tasks/check-install.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/app/check.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/checkbox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/checkbox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/definitions/modules/checkbox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/definitions/modules/checkbox.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/checkbox.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/checkbox.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/modules/checkbox.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/modules/checkbox.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/modules/checkbox.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/colored/modules/checkbox.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/modules/checkbox.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/var/class2type.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/attributes/classes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/tasks/clean.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/colorize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/definitions/behaviors/colorize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/colorize.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/comment.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/definitions/views/comment.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/comment.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/views/comment.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/chubby/views/comment.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/views/comment.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/views/comment.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/chubby/views/comment.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/views/comment.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/tasks/config/admin/templates/component-package.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/tasks/config/admin/templates/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/composer.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/var/concat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/tasks/config/project/config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/app/config/config.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/app/config/config_dev.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/app/config/config_prod.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/app/config/config_test.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/app/console" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/container.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/definitions/elements/container.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/container.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/elements/container.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/elements/container.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/elements/container.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/elements/container.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/tasks/admin/components/create.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/tasks/admin/distributions/create.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/manipulation/createSafeFragment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/tasks/config/admin/templates/css-package.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/css.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/tasks/build/css.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/css/var/cssExpand.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/css/curCSS.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/data/var/dataPriv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/data/var/dataUser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/css/defaultDisplay.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/tasks/config/defaults.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/deferred.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/queue/delay.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/var/deletedIds.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/deprecated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/dimensions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/dimmer.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/dimmer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/definitions/modules/dimmer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/definitions/modules/dimmer.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/dimmer.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/dimmer.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/modules/dimmer.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/modules/dimmer.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/modules/dimmer.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/modules/dimmer.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/traversing/var/dir.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/divider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/definitions/elements/divider.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/divider.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/elements/divider.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/elements/divider.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/elements/divider.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/elements/divider.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/tasks/config/docs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/var/document.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/var/documentElement.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/dropdown.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/dropdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/definitions/modules/dropdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/definitions/modules/dropdown.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/dropdown.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/dropdown.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/modules/dropdown.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/modules/dropdown.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/github/modules/dropdown.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/material/modules/dropdown.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/modules/dropdown.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/modules/dropdown.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/github/modules/dropdown.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/material/modules/dropdown.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/effects.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/embed.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/embed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/definitions/modules/embed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/definitions/modules/embed.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/embed.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/embed.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/modules/embed.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/modules/embed.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/modules/embed.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/enquete.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/event.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/deferred/exceptionHook.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/feed.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/definitions/views/feed.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/feed.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/views/feed.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/views/feed.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/timeline/views/feed.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/views/feed.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/views/feed.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/timeline/views/feed.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/traversing/findFilter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/examples/fixed.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/flag.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/definitions/elements/flag.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/flag.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/elements/flag.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/elements/flag.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/elements/flag.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/elements/flag.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/event/focusin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/form.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/definitions/behaviors/form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/definitions/collections/form.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/form.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/form.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/collections/form.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/chubby/collections/form.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/collections/form.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/flat/collections/form.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/github/collections/form.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/collections/form.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/chubby/collections/form.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/collections/form.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/flat/collections/form.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/github/collections/form.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/frameworkRootSettings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/manipulation/getAll.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/css/var/getStyles.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/tasks/config/admin/github.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/exports/global.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/grid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/examples/grid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/definitions/collections/grid.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/grid.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/collections/grid.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/collections/grid.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/fixed-width/collections/grid.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/collections/grid.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/collections/grid.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/fixed-width/collections/grid.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/github/collections/grid.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/gulpfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/tasks/config/npm/gulpfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/var/hasOwn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/header.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/definitions/elements/header.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/header.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/elements/header.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/bookish/elements/header.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/chubby/elements/header.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/classic/elements/header.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/elements/header.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/material/elements/header.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/elements/header.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/bookish/elements/header.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/chubby/elements/header.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/classic/elements/header.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/elements/header.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/github/elements/header.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/material/elements/header.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/css/hiddenVisibleSelectors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/examples/homepage.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/icon.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/definitions/elements/icon.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/icon.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/elements/icon.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/basic/elements/icon.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/elements/icon.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/github/elements/icon.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/elements/icon.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/basic/elements/icon.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/elements/icon.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/github/elements/icon.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/themes/basic/assets/fonts/icons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/themes/default/assets/fonts/icons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/basic/assets/fonts/icons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/assets/fonts/icons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/examples/assets/library/iframe-content.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/examples/assets/library/iframe.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/image.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/definitions/elements/image.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/image.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/elements/image.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/elements/image.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/elements/image.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/elements/image.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/github/elements/image.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/app/Resources/views/default/index.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/angular/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/js/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/var/indexOf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/core/init.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/tasks/admin/components/init.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/tasks/admin/distributions/init.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/input.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/examples/components/input.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/definitions/elements/input.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/input.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/elements/input.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/elements/input.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/github/elements/input.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/elements/input.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/elements/input.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/github/elements/input.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/tasks/install.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/tasks/config/project/install.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/tasks/collections/internal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/intro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/css/var/isHidden.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/item.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/definitions/views/item.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/item.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/views/item.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/views/item.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/views/item.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/views/item.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/tasks/build/javascript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/dist/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/dist/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/examples/assets/library/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/dist/jquery.min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/dist/jquery.slim.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/dist/jquery.slim.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/dist/jquery.slim.min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/ajax/jsonp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/karma.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/label.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/definitions/elements/label.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/label.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/elements/label.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/elements/label.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/github/elements/label.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/elements/label.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/elements/label.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/github/elements/label.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/tasks/config/admin/templates/less-package.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/list.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/definitions/elements/list.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/list.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/elements/list.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/elements/list.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/elements/list.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/elements/list.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/ajax/load.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/loader.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/definitions/elements/loader.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/loader.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/elements/loader.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/elements/loader.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/duo/elements/loader.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/pulsar/elements/loader.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/elements/loader.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/elements/loader.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/duo/elements/loader.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/pulsar/elements/loader.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/ajax/var/location.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/examples/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/manipulation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/menu.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/examples/components/menu.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/definitions/collections/menu.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/menu.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/collections/menu.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/collections/menu.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/github/collections/menu.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/material/collections/menu.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/collections/menu.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/chubby/collections/menu.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/collections/menu.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/github/collections/menu.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/material/collections/menu.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/message.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/definitions/collections/message.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/message.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/collections/message.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/collections/message.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/github/collections/message.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/collections/message.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/collections/message.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/github/collections/message.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/gmail/collections/message.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/tasks/docs/metadata.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/modal.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/modal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/definitions/modules/modal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/definitions/modules/modal.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/modal.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/modal.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/modules/modal.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/modules/modal.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/fixed-width/modules/modal.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/material/modules/modal.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/modules/modal.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/modules/modal.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/fixed-width/modules/modal.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/material/modules/modal.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/nag.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/nag.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/definitions/modules/nag.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/definitions/modules/nag.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/nag.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/nag.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/modules/nag.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/modules/nag.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/modules/nag.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/modules/nag.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/manipulation/var/nodeNames.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/ajax/var/nonce.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/tasks/config/admin/oauth.example.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/themes/github/assets/fonts/octicons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/github/assets/fonts/octicons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/offset.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/outro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/angular/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/tasks/config/admin/templates/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/app/config/parameters.yml.dist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/core/parseHTML.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/ajax/parseJSON.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/ajax/parseXML.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/app/phpunit.xml.dist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/var/pnum.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/popup.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/popup.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/definitions/modules/popup.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/definitions/modules/popup.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/popup.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/popup.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/modules/popup.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/modules/popup.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/modules/popup.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/modules/popup.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/github/modules/popup.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/progress.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/progress.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/definitions/modules/progress.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/definitions/modules/progress.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/progress.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/progress.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/modules/progress.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/basic/modules/progress.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/classic/modules/progress.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/modules/progress.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/striped/modules/progress.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/modules/progress.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/basic/modules/progress.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/classic/modules/progress.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/modules/progress.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/striped/modules/progress.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/attributes/prop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/tasks/admin/publish.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/var/push.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/queue.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/rail.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/definitions/elements/rail.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/rail.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/elements/rail.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/elements/rail.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/elements/rail.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/elements/rail.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/rating.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/rating.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/definitions/modules/rating.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/definitions/modules/rating.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/rating.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/rating.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/modules/rating.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/modules/rating.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/modules/rating.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/modules/rating.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/manipulation/var/rcheckableType.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/var/rcssNum.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/core/ready.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/tasks/admin/register.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/tasks/admin/release.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/tasks/config/admin/release.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/tasks/config/project/release.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/reset.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/definitions/globals/reset.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/reset.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/globals/reset.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/basic/globals/reset.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/globals/reset.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/resetcss/globals/reset.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/globals/reset.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/basic/globals/reset.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/globals/reset.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/resetcss/globals/reset.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/examples/responsive.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/reveal.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/definitions/elements/reveal.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/reveal.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/elements/reveal.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/elements/reveal.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/elements/reveal.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/elements/reveal.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/app/Resources/views/surveys/revise.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/manipulation/var/rleadingWhitespace.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/css/var/rmargin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/traversing/var/rneedsContext.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/var/rnotwhite.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/css/var/rnumnonpx.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/robots.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/app/config/routing.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/app/config/routing_dev.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/ajax/var/rquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/manipulation/var/rscriptType.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/core/var/rsingleTag.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/manipulation/var/rtagName.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/tasks/collections/rtl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/ajax/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/search.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/search.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/definitions/modules/search.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/definitions/modules/search.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/search.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/search.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/modules/search.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/modules/search.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/modules/search.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/modules/search.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/app/config/security.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/segment.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/definitions/elements/segment.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/segment.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/elements/segment.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/elements/segment.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/github/elements/segment.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/elements/segment.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/elements/segment.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/github/elements/segment.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/selector-native.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/selector-sizzle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/selector.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/semantic.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/semantic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/semantic.json.example" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/semantic.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/semantic.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/semantic.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/serialize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/tasks/docs/serve.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/app/config/services.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/manipulation/setGlobalEval.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/shape.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/shape.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/definitions/modules/shape.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/definitions/modules/shape.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/shape.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/shape.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/modules/shape.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/modules/shape.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/modules/shape.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/modules/shape.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/examples/assets/show-examples.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/css/showHide.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/traversing/var/siblings.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/sidebar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/sidebar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/definitions/modules/sidebar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/definitions/modules/sidebar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/sidebar.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/sidebar.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/modules/sidebar.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/modules/sidebar.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/modules/sidebar.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/modules/sidebar.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/site.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/examples/components/site.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/site.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/definitions/globals/site.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/definitions/globals/site.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/site.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/site.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/globals/site.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/globals/site.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/flat/globals/site.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/rtl/globals/site.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/globals/site.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/amazon/globals/site.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/globals/site.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/flat/globals/site.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/github/globals/site.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/material/globals/site.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/rtl/globals/site.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/sizzle/dist/sizzle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/sizzle/dist/sizzle.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/sizzle/dist/sizzle.min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/var/slice.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/state.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/definitions/behaviors/state.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/state.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/statistic.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/definitions/views/statistic.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/statistic.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/views/statistic.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/views/statistic.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/views/statistic.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/views/statistic.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/step.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/definitions/elements/step.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/step.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/elements/step.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/basic/elements/step.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/elements/step.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/github/elements/step.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/elements/step.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/basic/elements/step.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/elements/step.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/github/elements/step.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/sticky.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/examples/sticky.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/sticky.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/definitions/modules/sticky.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/definitions/modules/sticky.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/sticky.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/sticky.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/modules/sticky.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/modules/sticky.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/modules/sticky.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/modules/sticky.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/attributes/support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/core/support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/css/support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/data/support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/effects/support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/event/support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/manipulation/support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/var/support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/css/var/swap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/tab.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/tab.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/definitions/modules/tab.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/definitions/modules/tab.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/tab.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/tab.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/modules/tab.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/modules/tab.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/modules/tab.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/modules/tab.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/table.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/examples/components/table.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/definitions/collections/table.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/table.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/collections/table.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/basic/collections/table.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/classic/collections/table.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/collections/table.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/basic/collections/table.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/classic/collections/table.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/collections/table.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/github/collections/table.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/tasks/config/tasks.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/theme.config.example" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/theme.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/examples/theming.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/var/toString.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/transition.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/transition.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/definitions/modules/transition.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/definitions/modules/transition.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/transition.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/transition.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/modules/transition.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/modules/transition.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/_site/modules/transition.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/themes/default/modules/transition.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/traversing.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/event/trigger.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/tasks/admin/components/update.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/tasks/admin/distributions/update.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/tasks/config/user.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/attributes/val.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/tasks/version.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/video.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/video.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/video.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/video.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/visibility.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/definitions/behaviors/visibility.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/visibility.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/visit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/src/definitions/behaviors/visit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/dist/components/visit.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/tasks/watch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/semantic/tasks/rtl/watch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/wrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/manipulation/wrapMap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enquete/web/assets/bower/jquery/src/ajax/xhr.js" />
+    </list>
+    <ignored path="enquete.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="enquete" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="EnquetesController.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/enquete/src/AppBundle/Controller/EnquetesController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.27695167" vertical-offset="684" max-vertical-offset="1564">
+              <caret line="49" column="48" selection-start-line="49" selection-start-column="48" selection-end-line="49" selection-end-column="48" />
+              <folding>
+                <element signature="e#40#99#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="answer.html.twig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/enquete/app/Resources/views/surveys/answer.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="170">
+              <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="revise.html.twig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/enquete/app/Resources/views/surveys/revise.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="204">
+              <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EnqueteRepository.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/enquete/src/AppBundle/Repository/EnqueteRepository.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-9.153846" vertical-offset="0" max-vertical-offset="374">
+              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DefaultController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/enquete/src/AppBundle/Controller/DefaultController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-15.038462" vertical-offset="0" max-vertical-offset="544">
+              <caret line="23" column="11" selection-start-line="19" selection-start-column="8" selection-end-line="23" selection-end-column="11" />
+              <folding>
+                <element signature="e#40#69#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Alternatives.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/enquete/src/AppBundle/Entity/Alternatives.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-15.384615" vertical-offset="314" max-vertical-offset="1700">
+              <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html.twig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/enquete/app/Resources/views/default/index.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-13.730769" vertical-offset="0" max-vertical-offset="663">
+              <caret line="21" column="56" selection-start-line="21" selection-start-column="56" selection-end-line="21" selection-end-column="56" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Questions.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/enquete/src/AppBundle/Entity/Questions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-8.981818" vertical-offset="543" max-vertical-offset="1938">
+              <caret line="61" column="21" selection-start-line="61" selection-start-column="21" selection-end-line="61" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Enquete.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/enquete/src/AppBundle/Entity/Enquete.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-26.153847" vertical-offset="0" max-vertical-offset="1581">
+              <caret line="40" column="7" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/enquete/.bowerrc" />
+        <option value="$PROJECT_DIR$/enquete/web/assets/js/add_enquete.js" />
+        <option value="$PROJECT_DIR$/enquete/app/Resources/views/enquetes/add.html.twig" />
+        <option value="$PROJECT_DIR$/enquete/app/cache/dev/twig/39/39e1063e8e01c13d166a4e5e068386a9c3e5271239ba8b34cdf628e3d3ed1f05.php" />
+        <option value="$PROJECT_DIR$/enquete/app/cache/dev/twig/8b/8baa0aba14669dd7759eefc90a526e6437b3c789cb3b0056b072ff31d6417013.php" />
+        <option value="$PROJECT_DIR$/enquete/README.md" />
+        <option value="$PROJECT_DIR$/enquete/app/cache/dev/appDevDebugProjectContainer.php.meta" />
+        <option value="$PROJECT_DIR$/enquete/app/cache/dev/appDevDebugProjectContainer.xml" />
+        <option value="$PROJECT_DIR$/enquete/app/cache/dev/appDevUrlGenerator.php" />
+        <option value="$PROJECT_DIR$/enquete/app/cache/dev/appDevUrlGenerator.php.meta" />
+        <option value="$PROJECT_DIR$/enquete/app/cache/dev/appDevUrlMatcher.php.meta" />
+        <option value="$PROJECT_DIR$/enquete/app/cache/dev/appDevUrlMatcher.php" />
+        <option value="$PROJECT_DIR$/enquete/app/config/config.yml" />
+        <option value="$PROJECT_DIR$/enquete/vendor/doctrine/cache/tests/travis/php.ini" />
+        <option value="$PROJECT_DIR$/enquete/app/config/parameters.yml" />
+        <option value="$PROJECT_DIR$/enquete/src/AppBundle/Entity/Enquetes.php" />
+        <option value="$PROJECT_DIR$/enquete/src/AppBundle/Entity/Alternatives.php" />
+        <option value="$PROJECT_DIR$/enquete/web/assets/js/index.js" />
+        <option value="$PROJECT_DIR$/enquete/app/Resources/views/surveys/add.html.twig" />
+        <option value="$PROJECT_DIR$/enquete/web/assets/js/add_survey.js" />
+        <option value="$PROJECT_DIR$/enquete/app/Resources/views/base.html.twig" />
+        <option value="$PROJECT_DIR$/enquete/src/AppBundle/Controller/DefaultController.php" />
+        <option value="$PROJECT_DIR$/enquete/app/Resources/views/default/index.html.twig" />
+        <option value="$PROJECT_DIR$/enquete/src/AppBundle/Entity/Enquete.php" />
+        <option value="$PROJECT_DIR$/enquete/src/AppBundle/Entity/Questions.php" />
+        <option value="$PROJECT_DIR$/enquete/src/AppBundle/Repository/EnqueteRepository.php" />
+        <option value="$PROJECT_DIR$/enquete/app/Resources/views/surveys/answer_survey.twig" />
+        <option value="$PROJECT_DIR$/enquete/app/Resources/views/surveys/answer_survey.html.twig" />
+        <option value="$PROJECT_DIR$/enquete/app/Resources/views/surveys/revise.html.twig" />
+        <option value="$PROJECT_DIR$/enquete/app/Resources/views/surveys/answer.html.twig" />
+        <option value="$PROJECT_DIR$/enquete/src/AppBundle/Controller/EnquetesController.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1066" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="enquete" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="enquete" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="enquete" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="enquete" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="enquete" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="enquete" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="enquete" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="enquete" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="enquete" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="enquete" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="enquete" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="enquete" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="enquete" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="enquete" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="enquete" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="enquete" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="enquete" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="enquete" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="enquete" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="enquete" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="enquete" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AppBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="enquete" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="enquete" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="enquete" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AppBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Repository" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="enquete" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="enquete" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="enquete" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AppBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Entity" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="enquete" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="enquete" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="enquete" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AppBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controller" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="enquete" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="enquete" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="enquete" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="enquete" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="enquete" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="enquete" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="enquete" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="enquete" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="enquete" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="surveys" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="C:/xampp_568/htdocs/enquete" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\enquete\enquete\app\Resources\views\surveys" />
+      <recent name="C:\xampp\htdocs\enquete\enquete\web\assets\js" />
+      <recent name="C:\xampp\htdocs\enquete\enquete\src\AppBundle\Controller" />
+      <recent name="C:\xampp\htdocs\enquete\enquete\app\Resources\views\enquetes" />
+      <recent name="C:\xampp\htdocs\enquete\enquete\web\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\enquete\enquete\web\assets" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b6141c9-1ea7-4fce-b1af-13a782708a70" name="Default" comment="" />
+      <created>1458261743746</created>
+      <option name="number" value="Default" />
+      <updated>1458261743746</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.366167" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3404711" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Framework" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26332623" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/enquete/app/Resources/views/base.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="442" max-vertical-offset="1071">
+          <caret line="26" column="53" selection-start-line="26" selection-start-column="53" selection-end-line="26" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enquete/src/AppBundle/Controller/EnquetesController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1428">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#40#99#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enquete/src/AppBundle/Entity/Alternatives.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="1173">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enquete/src/AppBundle/Entity/Questions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="305" max-vertical-offset="1564">
+          <caret line="31" column="43" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enquete/src/AppBundle/Entity/Enquete.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="1598">
+          <caret line="53" column="28" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enquete/app/Resources/views/surveys/add.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="459" max-vertical-offset="833">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enquete/web/assets/js/add_survey.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="828" max-vertical-offset="1989">
+          <caret line="87" column="76" selection-start-line="87" selection-start-column="76" selection-end-line="87" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enquete/app/Resources/views/default/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="278" max-vertical-offset="850">
+          <caret line="40" column="37" selection-start-line="40" selection-start-column="37" selection-end-line="40" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enquete/app/Resources/views/base.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="346" max-vertical-offset="1071">
+          <caret line="52" column="12" selection-start-line="52" selection-start-column="12" selection-end-line="52" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enquete/app/config/parameters.yml.dist">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enquete/app/config/parameters.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enquete/app/config/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="318" max-vertical-offset="1224">
+          <caret line="41" column="35" selection-start-line="41" selection-start-column="35" selection-end-line="41" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enquete/app/Resources/views/surveys/add.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="278" max-vertical-offset="850">
+          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enquete/web/assets/js/add_survey.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="1224">
+          <caret line="32" column="58" selection-start-line="32" selection-start-column="58" selection-end-line="32" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enquete/src/AppBundle/Controller/EnquetesController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="510">
+          <caret line="19" column="29" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="29" />
+          <folding>
+            <element signature="e#40#99#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enquete/app/Resources/views/surveys/revise.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="204">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enquete/app/Resources/views/default/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="680" max-vertical-offset="850">
+          <caret line="40" column="37" selection-start-line="40" selection-start-column="37" selection-end-line="40" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enquete/app/Resources/views/base.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1071">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enquete/app/Resources/views/surveys/add.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="850">
+          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enquete/web/assets/js/add_survey.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="1224">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enquete/src/AppBundle/Controller/EnquetesController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="510">
+          <caret line="19" column="29" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="29" />
+          <folding>
+            <element signature="e#40#99#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enquete/app/Resources/views/surveys/revise.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="204">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enquete/app/Resources/views/default/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="663" max-vertical-offset="850">
+          <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enquete/app/Resources/views/surveys/add.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="91" max-vertical-offset="663">
+          <caret line="25" column="53" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enquete/web/assets/js/add_survey.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="816">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enquete/app/Resources/views/default/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="291" max-vertical-offset="850">
+          <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enquete/app/Resources/views/surveys/add.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="255">
+          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enquete/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="170">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enquete/app/phpunit.xml.dist">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="748">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enquete/.bowerrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.05944056" vertical-offset="0" max-vertical-offset="572">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enquete/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="598">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enquete/app/bootstrap.php.cache">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.42882884" vertical-offset="0" max-vertical-offset="56695">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enquete/app/config/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.551724" vertical-offset="542" max-vertical-offset="1224">
+          <caret line="55" column="53" selection-start-line="55" selection-start-column="53" selection-end-line="55" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enquete/vendor/doctrine/cache/tests/travis/php.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enquete/app/config/parameters.yml.dist">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="598">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enquete/app/config/parameters.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
+          <caret line="12" column="52" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enquete/app/Resources/views/surveys/add.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="969">
+          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enquete/web/assets/js/add_survey.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.5172415" vertical-offset="0" max-vertical-offset="2040">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enquete/web/assets/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enquete/app/Resources/views/base.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.48295453" vertical-offset="0" max-vertical-offset="1071">
+          <caret line="25" column="22" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enquete/vendor/symfony/symfony/src/Symfony/Component/Console/Question/Question.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09988249" vertical-offset="0" max-vertical-offset="4335">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enquete/src/AppBundle/Entity/Enquete.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-26.153847" vertical-offset="0" max-vertical-offset="1581">
+          <caret line="40" column="7" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enquete/src/AppBundle/Entity/Questions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.981818" vertical-offset="543" max-vertical-offset="1938">
+          <caret line="61" column="21" selection-start-line="61" selection-start-column="21" selection-end-line="61" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enquete/app/Resources/views/default/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.730769" vertical-offset="0" max-vertical-offset="663">
+          <caret line="21" column="56" selection-start-line="21" selection-start-column="56" selection-end-line="21" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enquete/src/AppBundle/Entity/Alternatives.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.384615" vertical-offset="314" max-vertical-offset="1700">
+          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enquete/src/AppBundle/Repository/EnqueteRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.153846" vertical-offset="0" max-vertical-offset="374">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enquete/src/AppBundle/Controller/DefaultController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.038462" vertical-offset="0" max-vertical-offset="544">
+          <caret line="23" column="11" selection-start-line="19" selection-start-column="8" selection-end-line="23" selection-end-column="11" />
+          <folding>
+            <element signature="e#40#69#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enquete/app/Resources/views/surveys/revise.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="204">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enquete/app/Resources/views/surveys/answer.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="170">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enquete/src/AppBundle/Controller/EnquetesController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27695167" vertical-offset="684" max-vertical-offset="1564">
+          <caret line="49" column="48" selection-start-line="49" selection-start-column="48" selection-end-line="49" selection-end-column="48" />
+          <folding>
+            <element signature="e#40#99#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
